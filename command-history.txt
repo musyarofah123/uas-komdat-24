@@ -1,0 +1,135 @@
+    1  sudo apt update
+    2  ls
+    3  mkdirs
+    4  mkdir folder1
+    5  ls
+    6  cd folder1/
+    7  ls
+    8  nano biodata.txt
+    9  cat biodata.txt
+   10  cd
+   11  neofetch
+   12  sudo apt install neofetch
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  sudo apt install neofetch
+   16  sudo apt install git
+   17  git --version
+   18  mkdir latihan-git
+   19  ls
+   20  cd latihan-git/
+   21  sudo apt install gh
+   22  gh --version
+   23  sudo apt update
+   24  ls
+   25  sudo apt install gdebi-core wget
+   26  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   27  sudo gdebi google-chrome-stable_current_amd64.deb
+   28  google-chrome
+   29  sudo apt update
+   30  sudo apt install chromium-browser
+   31  sudo apt update
+   32  sudo apt install chromium-browser
+   33  sudo apt update && sudo apt -y upgrade && sudo apt -y autoremove
+   34  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   35  sudo apt install ./google-chrome-stable_current_amd64.deb
+   36  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+   37  google-chrome --version
+   38  google-chrome
+   39  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+   40  google-chrome --version
+   41  google-chrome
+   42  google-chromium
+   43  sudo apt update && sudo apt -y upgrade && sudo apt -y autoremove
+   44  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   45  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+   46  google-chrome --version
+   47  google-chrome
+   48  https://crbug.com/638180
+   49  google-chromium --version
+   50  google-chromium
+   51  sudo apt -y install ./google-chromium-stable_current_amd64.deb
+   52  sudo apt update
+   53  sudo apt install chromium-browser
+   54  sudo apt -f
+   55  chromium-browser
+   56  sudo apt update
+   57  sudo apt upgrade
+   58  wget --version
+   59  sudo apt install wget
+   60  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   61  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   62  sudo apt-get install -f
+   63  google-chrome
+   64  google-chrome --no-sandbox
+   65  google-chrome
+   66  google-chrome --no-sandbox
+   67  google-chrome
+   68  google-chrome --no-sandbox
+   69  google-chrome
+   70  google-chrome --no-sandbox
+   71  google-chrome
+   72  google-chrome --no-sandbox
+   73  google-chrome
+   74  google-chrome --no-sandbox
+   75  git --version
+   76  gh --version
+   77  ls
+   78  gh --version
+   79  google-chrome
+   80  google-chrome --no-sandbox
+   81  gh auth status
+   82  gh auth status --no-sandbox
+   83  git --version
+   84  gh --version
+   85  gh auth status
+   86  gh auth login
+   87  gh auth status
+   88  code.
+   89  gh auth status
+   90  gh auth login
+   91  google-chrome
+   92  google-chrome --no-sandbox
+   93  gh auth status
+   94  code .
+   95  ls
+   96  nano  index.html
+   97  code .
+   98  ls
+   99  nano index.html
+  100  sudo adduser musyarofah
+  101  login musyarofah
+  102  sudo adduser musyarofah
+  103  sudo adduser musyarofah
+  104  ls
+  105  code .
+  106  google-chrome
+  107  google-chrome --no-sandbox
+  108  sudo adduser musyarofah
+  109  sudo adduser sitimusarofah
+  110  login sitimusarofah
+  111  sudo adduser sitimusarofah
+  112  whoami
+  113  git --version
+  114  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+  115  nvm -v
+  116  nvm --v
+  117  nvm install v.14.15.4
+  118  nvm ls-remote
+  119  nvm install v.14.15.4
+  120  node -v
+  121  nvm install v.14.15.4
+  122  nvm ls-remote
+  123  nvm --v
+  124  node -v
+  125  nvm install v14.15.4
+  126  node -v
+  127  clear
+  128  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+  129  ls
+  130  cd uas-komdat-24/
+  131  ls
+  132  code .
+  133  npm install
+  134  npm run start
+  135  history > command-history.txt
